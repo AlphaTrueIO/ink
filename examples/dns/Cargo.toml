@@ -16,7 +16,7 @@ scale-info = { version = "0.4", default-features = false, features = ["derive"],
 
 
 [lib]
-name = "dns"
+name = "d ns"
 path = "lib.rs"
 crate-type = ["cdylib"]
 
